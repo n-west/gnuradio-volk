@@ -1,0 +1,3 @@
+[submodule "volk"]
+	path = volk
+	url = git@github.com:n-west/volk.git
